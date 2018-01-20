@@ -1,0 +1,6 @@
+2017-10-28 03:02:39 INFO  TestBase:14 - Starting BeforeTest
+2017-10-28 03:02:39 INFO  TestLog4j:11 - Starting Login Test
+2017-10-28 03:02:39 INFO  TestLog4j:12 - Clicked on [Sign in]
+2017-10-28 03:02:39 INFO  TestLog4j:13 - Enter User Name
+2017-10-28 03:02:39 INFO  TestLog4j:14 - Enter Password
+2017-10-28 03:02:39 INFO  TestLog4j:15 - Clicked on [Submit]
